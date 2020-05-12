@@ -1,6 +1,6 @@
 # Kano_Model_Analysis_with_Python
 
-As my internship company needed to decide which features they should included in their new products, I programmed python to implement Kano Model to analyze the customer survey to know which features are desired by customers and which are not.
+As my internship company needed to decide which features they should include in their new products, I programmed python to implement Kano Model to analyze the customer survey to know which features are desired by customers and which are not.
 
 Due to company privacy, I did not include the real collected data here. The data shown here was made up by myself. This code is only to show how I utilized Python to implement the model.
 
